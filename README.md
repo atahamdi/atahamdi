@@ -1,14 +1,17 @@
-
 <div align="center">
 
-<h1 align="center">Hello Coders, I'm Ata Hamdi 👨‍💻</h1>
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+Coders+👋;Ata+Hamdi+👨‍💻;Systems+%26+Computers+Engineering;Future+Software+Engineer+🚀" />
 
-<p align="center">
-  <b>Systems & Computers Engineering Student</b><br>
-  Al-Azhar University – Cairo
-</p>
+<br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%" />
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge" />
+
+<br><br>
+
+<!-- Developer Working GIF -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/>
 
 </div>
 
@@ -16,32 +19,32 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering Student at Al-Azhar University
-- 💻 Learned: Java (OOP Basics)
-- 📚 Currently Studying: CS50 & Data Structures
-- 🧠 Improving Problem Solving Skills
-- 🎯 Goal: Become a Strong Software Engineer
+- 🎓 Systems & Computers Engineering Student  
+- 🏫 Al-Azhar University – Cairo  
+- 💻 Learning Java (OOP Basics)  
+- 📚 Currently Studying CS50 & Data Structures  
+- 🧠 Improving Problem Solving  
+- 🎯 Goal: Become a Strong Software Engineer  
 
 ---
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 👨‍💻 Developer Profile (Java Version)
+## 👨‍💻 Developer Profile
 
 ```java
 public class AtaHamdi {
 
     private final String university = "Al-Azhar University - Cairo";
-    private final String faculty = "Engineering";
     private final String department = "Systems & Computers Engineering";
 
     private final String[] learned = {
@@ -52,23 +55,3 @@ public class AtaHamdi {
         "CS50",
         "Data Structures",
         "Problem Solving"
-    };
-
-    private final String[] tools = {
-        "Git",
-        "GitHub",
-        "VS Code",
-        "IntelliJ"
-    };
-
-    public void goal() {
-        System.out.println("Become a Strong Software Engineer 🚀");
-    }
-
-    public static void main(String[] args) {
-        System.out.println("Hello Coders, I'm Ata Hamdi 👨‍💻");
-
-        AtaHamdi ata = new AtaHamdi();
-        ata.goal();
-    }
-}
